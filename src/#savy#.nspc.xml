@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/SAVY/</NAMESPACE>
+    <REPLICENSE>22569279361035310754</REPLICENSE>
+   </NSPC>
+   <NSPC_TEXT>
+    <SPRAS>E</SPRAS>
+    <DESCRIPTN>Saviynt Development</DESCRIPTN>
+    <OWNER>SAVIYNT</OWNER>
+   </NSPC_TEXT>
+   <CVERS>
+    <COMPONENT>SAVY</COMPONENT>
+    <RELEASE>100_S4758</RELEASE>
+    <EXTRELEASE>0000</EXTRELEASE>
+    <COMP_TYPE>C</COMP_TYPE>
+   </CVERS>
+   <CVERS_REF>
+    <COMPONENT>SAVY</COMPONENT>
+    <LANGU>E</LANGU>
+    <DESC_TEXT>Saviynt Add-On</DESC_TEXT>
+   </CVERS_REF>
+  </asx:values>
+ </asx:abap>
+</abapGit>

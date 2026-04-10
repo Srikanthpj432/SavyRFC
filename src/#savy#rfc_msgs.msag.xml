@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Saviynt RFC Read Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;&amp;&amp;&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>RFC Read on table &amp;1 by user &amp;2 on &amp;3 at &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>WHERE clause: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>NOT AUTHORIZED: Table &amp;1 access denied for user &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>TABLE NOT AVAILABLE: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>TABLE WITHOUT DATA: &amp;1 is internal table type</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>FIELD NOT VALID: &amp;1 in table &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>DATA BUFFER EXCEEDED for table &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Fields requested: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>SUCCESS: Table &amp;1 returned &amp;2 rows for user &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Option NOT VALID: Where Clause &amp;1 in table &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>/SAVY/RFC_MSGS</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Unknown Error:&amp;1</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
